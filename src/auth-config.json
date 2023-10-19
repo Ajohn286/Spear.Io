@@ -1,0 +1,7 @@
+{
+    "domain": "dev-h53phf88nd3mm013.us.auth0.com",
+    "clientId": "l1mxgpeRM21xrQoVBFocRbxaXu8wiVvh",
+    "audience": "b5r4xlbM77wD7KFk0daNVQfADB2pebHExEShD20vxi7CJ0KLgxr1jimXhjdysAqt",
+    "appOrigin": "{http://localhost:5174/}",
+    "apiOrigin": "{http://localhost:5174/}"
+  }
